@@ -1,0 +1,4 @@
+Invalid DYSPNEA mapping. 
+Risk calculation should return a number.
+Fictional Risk calculation
+Errors in final data.
